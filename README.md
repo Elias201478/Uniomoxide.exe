@@ -1,2 +1,3 @@
 # Uniomoxide.exe
-my new malware.
+my new hsl malware.
+Credts to: gabrodev for sinewaves and rainbow hsl

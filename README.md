@@ -1,3 +1,3 @@
 # Uniomoxide.exe
 my new hsl malware.
-Credts to: gabrodev for MBR and payloads
+Credits to: gabrodev and Kavru for MBR and payloads and gdi texts.
